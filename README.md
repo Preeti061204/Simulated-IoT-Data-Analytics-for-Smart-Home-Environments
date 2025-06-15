@@ -11,3 +11,39 @@ This was a collaborative academic project developed by two contributors as part 
 - Forecast future trends using Prophet
 - Compare multiple regression models for predictive accuracy
 - Visualize insights using Power BI and Excel
+
+## 🛠 Tools & Technologies Used
+
+- *Languages*: Python (Jupyter Notebook)
+- *Libraries*: 
+  - Pandas, NumPy, Matplotlib, Seaborn
+  - Scikit-learn (Regression models)
+  - XGBoost, MLPRegressor
+  - Prophet (Time series forecasting)
+- *Visualization*: Power BI, Excel
+- *Environment*: Jupyter Notebook
+
+## 📈 ML Algorithms applied
+
+We applied the following regression models:
+- Linear Regression
+- Random Forest Regressor
+- Gradient Boosting
+- Support Vector Regressor (SVR)
+- K-Nearest Neighbors (KNN)
+- Multi-Layer Perceptron (MLP)
+
+## 🔍 Forecasting & Anomaly Detection
+
+- *Prophet* was used for time-series forecasting of energy usage.
+- Anomalies in consumption patterns were identified using statistical thresholds and model residuals.
+- Findings were visualized using Power BI dashboards for intuitive reporting.
+
+## 👥 Authors
+
+- Onushka 
+- Preeti Sharma
+
+For any queries :
+- onushkachauhan@gmail.com
+- preetisharma6012@gmail.com
