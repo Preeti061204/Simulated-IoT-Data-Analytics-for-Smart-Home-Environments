@@ -7,10 +7,10 @@ This was a collaborative academic project developed by two contributors as part 
 ## 🎯 Objectives
 
 - Analyze synthetic IoT sensor data
-- Detect anomalies in energy usage patterns
+- Visualize insights using Power BI and Excel
 - Forecast future trends using Prophet
 - Compare multiple regression models for predictive accuracy
-- Visualize insights using Power BI and Excel
+- Detect anomalies in energy usage patterns
 
 ## 🛠 Tools & Technologies Used
 
@@ -23,7 +23,7 @@ This was a collaborative academic project developed by two contributors as part 
 - *Visualization*: Power BI, Excel
 - *Environment*: Jupyter Notebook
 
-## 📈 ML Algorithms applied
+## 📈 Machine Learning Models Applied
 
 We applied the following regression models:
 - Linear Regression
