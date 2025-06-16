@@ -17,7 +17,7 @@ Here are the key **deductions and insights** drawn from the outputs in the two P
 
 4. **Forecast Trends**:
 
-   * **Prophet's 7-day forecast** displays expected future energy consumption trends and seasonality. The model captures **daily and weekly cycles**, which can help plan energy-saving strategies during peak usage times.
+   * **Prophet's 7-day forecast** displays expected future energy consumption trends and seasonality and is stored in **energy_forecast.xls**. The model captures **daily and weekly cycles**, which can help plan energy-saving strategies during peak usage times.
 
 5. **Anomalies in Forecast**:
 
