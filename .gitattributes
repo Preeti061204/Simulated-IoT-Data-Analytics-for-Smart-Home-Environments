@@ -1,1 +1,30 @@
+# ===============================
+# Git attributes for this project
+# ===============================
+
+# === Normalize text files (line endings)
+* text=auto
+
+# === Python & Jupyter files (track as text for diff)
+*.py text
+*.ipynb text
+
+# === Data files (treat as binary to avoid diff noise)
+*.csv binary
+*.xlsx binary
+*.xls binary
+
+# === Reports (PDFs, treat as binary)
+*.pdf binary
+
+# === Power BI exports or static images (treat as binary)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pbix binary
+
+# === Optional: suppress GitHub language detection on large files
+*.csv linguist-vendored
+*.pdf linguist-vendored
+*.pbix linguist-vendored
 
