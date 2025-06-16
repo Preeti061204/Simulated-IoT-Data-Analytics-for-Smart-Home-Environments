@@ -1,7 +1,7 @@
-This project focuses on analyzing and optimizing energy consumption in a smart IoT-enabled home using a combination of **Power BI dashboards**, **machine learning models**, and **advanced anomaly detection techniques**.
+This project focuses on analyzing and optimizing energy consumption in a smart IoT-enabled home using a combination of **Power BI dashboards**, **machine learning models**, and **advanced anomaly detection techniques**.<br><br>
 
 
-## 📈 Power BI Dashboard Insights
+### 📈 Power BI Dashboard Insights
 
 * **Room-wise Consumption Patterns**:
 
@@ -19,11 +19,10 @@ This project focuses on analyzing and optimizing energy consumption in a smart I
 
   * Aligning appliance use with occupancy
   * Reducing idle power drain
-  * Implementing smart scheduling or sensor-triggered automation
+  * Implementing smart scheduling or sensor-triggered automation<br><br>
+    
 
----
-
-## 🤖 Model-Based Energy Prediction (Python Code #1)
+### 🤖 Model-Based Energy Prediction (Python Code #1)
 
 A machine learning pipeline was developed to predict total energy consumption using features from all rooms. Key steps:
 
@@ -46,11 +45,11 @@ A machine learning pipeline was developed to predict total energy consumption us
 * **Forecasting with Prophet**:
 
   * Time series forecast for next 7 days
-  * Anomaly detection using confidence interval breaches
+  * Anomaly detection using confidence interval breaches<br><br>
 
----
 
-## ⚠️ Anomaly Detection (Python Code #2)
+
+### ⚠️ Anomaly Detection (Python Code #2)
 
 Three techniques were applied for robust anomaly detection in energy consumption:
 
@@ -72,23 +71,3 @@ Three techniques were applied for robust anomaly detection in energy consumption
 
 * **Visualization**:
   Plots were generated for each method and a combined consensus anomaly chart.
-
----
-
-## 📂 Outputs
-
-* `energy_forecast.csv`: 7-day hourly energy forecast
-* Detailed residual and anomaly plots per model
-* Model comparison table and evaluation metrics
-* Power BI `.pbix` dashboard for interactive exploration
-
----
-
-## 🧠 Conclusion
-
-By combining predictive modeling, anomaly detection, and interactive dashboards, this project delivers a comprehensive framework for understanding and optimizing smart home energy use. The integration of behavioral patterns, environmental sensors, and automated analytics enables smarter decision-making and more sustainable energy management.
-
----
-
-Let me know if you'd like a markdown version or one formatted specifically for GitHub or Word.
-
