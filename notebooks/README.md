@@ -44,7 +44,7 @@ A machine learning pipeline was developed to predict total energy consumption us
 
 * **Forecasting with Prophet**:
 
-  * Time series forecast for next 7 days
+  * Time series forecast for next 30 days
   * Anomaly detection using confidence interval breaches<br><br>
 
 
