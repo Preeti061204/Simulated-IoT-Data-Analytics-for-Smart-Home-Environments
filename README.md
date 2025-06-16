@@ -1,18 +1,20 @@
 # Simulated-IoT-Data-Analytics-for-Smart-Home-Environments
-## 📌 Project Overview
+
+
+### 📌 Project Overview
 
 This project demonstrates how data analytics and machine learning can be applied in smart home environments to detect anomalies, forecast energy usage, and evaluate device behavior. Built using a synthetic dataset, the project simulates IoT sensor data like temperature and energy consumption to model real-world scenarios without needing physical devices.
-This was a collaborative academic project developed by two contributors as part of a hands-on exploration into data science, analytics, and smart home intelligence.
+This was a collaborative academic project developed by two contributors as part of a hands-on exploration into data science, analytics, and smart home intelligence.<br><br>
 
-## 🎯 Objectives
+### 🎯 Objectives
 
 - Analyze synthetic IoT sensor data
 - Visualize insights using Power BI and Excel
 - Forecast future trends using Prophet
 - Compare multiple regression models for predictive accuracy
-- Detect anomalies in energy usage patterns
+- Detect anomalies in energy usage patterns<br><br>
 
-## 🛠 Tools & Technologies Used
+### 🛠 Tools & Technologies Used
 
 - *Languages*: Python (Jupyter Notebook)
 - *Libraries*: 
@@ -21,9 +23,9 @@ This was a collaborative academic project developed by two contributors as part 
   - XGBoost, MLPRegressor
   - Prophet (Time series forecasting)
 - *Visualization*: Power BI, Excel
-- *Environment*: Jupyter Notebook
+- *Environment*: Jupyter Notebook<br><br>
 
-## 📈 Machine Learning Models Applied
+### 📈 Machine Learning Models Applied
 
 We applied the following regression models:
 - Linear Regression
@@ -31,15 +33,15 @@ We applied the following regression models:
 - Gradient Boosting
 - Support Vector Regressor (SVR)
 - K-Nearest Neighbors (KNN)
-- Multi-Layer Perceptron (MLP)
+- Multi-Layer Perceptron (MLP)<br><br>
 
-## 🔍 Forecasting & Anomaly Detection
+### 🔍 Forecasting & Anomaly Detection
 
 - *Prophet* was used for time-series forecasting of energy usage.
 - Anomalies in consumption patterns were identified using statistical thresholds and model residuals.
-- Findings were visualized using Power BI dashboards for intuitive reporting.
+- Findings were visualized using Power BI dashboards for intuitive reporting.<br><br>
 
-## 👥 Authors
+### 👥 Authors
 
 - Onushka 
 - Preeti Sharma
